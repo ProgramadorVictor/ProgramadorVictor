@@ -5,7 +5,7 @@
 Oi, sou um estágiario e desenvolvo algumas páginas de sistemas para web. Atualmente 'codando' sou Full-Stack.
 <div>
 <i class="fa-brands fa-laravel"></i>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40"/>
 </div>
 <!--
 **ProgramadorVictor/ProgramadorVictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

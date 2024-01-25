@@ -1,7 +1,4 @@
-### Olá 👋
-### Meu nome é Victor👋
-
-### Sobre mim
+### Eu...
 Oi, sou um estágiario e desenvolvo algumas páginas de sistemas para web. Atualmente 'codando' sou Full-Stack.
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="25" height="25" alt="Laravel"/>

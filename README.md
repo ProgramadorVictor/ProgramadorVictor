@@ -1,4 +1,3 @@
-### Eu...
 Oi, sou um estágiario e desenvolvir algumas páginas de sistemas para web. Atualmente ando 'codando' alguns sistemas.
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="25" height="25" alt="Laravel"/>

@@ -1,4 +1,5 @@
 Oi, sou um estágiario e desenvolvir algumas páginas de sistemas para web. Atualmente ando 'codando' alguns sistemas.
+Foram utilizados durante os meus projetos as linguagens e frameworks abaixo.
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="25" height="25" alt="Laravel"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="25" height="25" alt="jQuery"/>

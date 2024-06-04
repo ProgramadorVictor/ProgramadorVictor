@@ -11,7 +11,6 @@ Oi, sou um estágiario e desenvolvir algumas páginas de sistemas para web. Atua
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="25" height="25" alt="Vue.js"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="25" height="25" alt="PHP"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25" height="25" alt="MySQL"/>
-
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
           
 </div>

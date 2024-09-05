@@ -10,6 +10,10 @@
   <a href="https://www.linkedin.com/in/victorochandrade/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://programadorvictor.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=flat&logo=About.me&logoColor=white" alt="Portfólio">
+  </a>
+  
 </p>
 
 ## Sobre mim

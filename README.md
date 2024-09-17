@@ -13,7 +13,6 @@
   <a href="https://programadorvictor.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-000000?style=flat&logo=About.me&logoColor=white" alt="Portfólio">
   </a>
-  
 </p>
 
 ## Sobre mim
@@ -21,15 +20,11 @@
     Olá! Sou um estudante de programação apaixonado por aprender e explorar novas tecnologias. Tenho me dedicado a aprimorar minhas habilidades em desenvolvimento de software e a trabalhar com diversas ferramentas e técnicas. Estou sempre em busca de oportunidades para crescer e contribuir em projetos interessante.
 </span>
 
-## Tecnologias
+## Tecnologias e Ferramentas
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" height="40" alt="jQuery"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"width="40" height="40" alt="Vuejs" />
+    <a href="#" style="text-decoration: none;">
+       <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,js,css,bootstrap,jquery,python,php,mysql,laravel,vue,blender" />
+      </a>
+    </a>
 </div>

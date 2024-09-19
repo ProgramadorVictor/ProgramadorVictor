@@ -17,7 +17,7 @@
 
 ## Sobre mim
 <span>
-    Olá! Sou um estudante de programação apaixonado por aprender e explorar novas tecnologias. Tenho me dedicado a aprimorar minhas habilidades em desenvolvimento de software e a trabalhar com diversas ferramentas e técnicas. Estou sempre em busca de oportunidades para crescer e contribuir em projetos interessante.
+    Olá! Sou um desenvolvedor apaixonado por aprender e explorar novas tecnologias. Tenho me dedicado a aprimorar minhas habilidades em desenvolvimento de software e a trabalhar com diversas ferramentas e técnicas. Estou sempre em busca de oportunidades para crescer e contribuir em projetos interessante.
 </span>
 
 ## Tecnologias e Ferramentas

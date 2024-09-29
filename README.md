@@ -1,30 +1,25 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=300&lines=Welcome+to+my+repository;My+name+is+Victor+Rocha+;I'm+a+Fullstack+Developer" alt="Typing SVG">
-  </a>
+### Olá, seja bem-vindo! Sou um Desenvolvedor Full-Stack
+
+<div align="left">
+  
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victorochandrade/)
+  [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=flat&logo=About.me&logoColor=white)](https://programadorvictor.github.io/portfolio/)
 </div>
-
-### Olá, seja bem-vindo meu nome é Victor Rocha. Sou um Desenvolvedor Full-stack
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/victorochandrade/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://programadorvictor.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=flat&logo=About.me&logoColor=white" alt="Portfólio">
-  </a>
-</p>
 
 ## Sobre mim
 <span>
-    Olá! Sou um desenvolvedor apaixonado por aprender e explorar novas tecnologias. Tenho me dedicado a aprimorar minhas habilidades em desenvolvimento de software e a trabalhar com diversas ferramentas e técnicas. Estou sempre em busca de oportunidades para crescer e contribuir em projetos interessante.
+    Sou um desenvolvedor focado em explorar novas tecnologias e aprimorar minhas habilidades em desenvolvimento de software. Estou sempre buscando desafios e oportunidades para crescer e colaborar em projetos interessantes!
 </span>
 
 ## Tecnologias e Ferramentas
+<div align="center" style="max-height: 200px;">
+  
+  [![Skillicons](https://skillicons.dev/icons?i=html,js,css,bootstrap,jquery,python,php,mysql,laravel,vue,blender)](https://github.com/ProgramadorVictor)
+</div>
+
+## Gráficos e Status
 <div align="center">
-    <a href="#" style="text-decoration: none;">
-       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,js,css,bootstrap,jquery,python,php,mysql,laravel,vue,blender" />
-      </a>
-    </a>
+  
+  [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ProgramadorVictor&show_icons=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&hide_title=true&width=450&height=200)](https://github.com/ProgramadorVictor)
+  [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgramadorVictor&layout=compact&bg_color=00000000&title_color=ffffff&icon_color=ffffff&width=450&height=200)](https://github.com/ProgramadorVictor)
 </div>
